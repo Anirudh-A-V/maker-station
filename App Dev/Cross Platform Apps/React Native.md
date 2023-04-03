@@ -53,19 +53,67 @@ Android Studio is an IDE that allows you to develop Android apps. You can downlo
 
 ## 💡 Learning Session
 
-### Format
+### Topics to Learn
 
-- Topics to Learn
-- Resources to learn the mentioned topics
-- A small activity/exercise where the person can implement the above topics or a simple project the person can build using the above topics. Eg:
-- Activity: Making an API call after learning **fetch** in JavaScript
-- Project
+- Introduction to React Native
+- React Native Components
+- React Native Styling
+- Handling User Input
+- Navigation and Routing
+- State Management
+- Working with APIs
+- Debugging and Testing
 
-- Build a simple web app using GitHub API to display the Avatar, no: of repositories when the GitHub username is given.(After learning basic HTML/CSS and JavaScript)
+### Resources
 
-**Note:**
+#### Introduction to React Native
 
-- It's good to split the topics to learn into different section followed by activities as mentioned above.
+- [React Native Documentation](https://reactnative.dev/docs/getting-started)
+- [React Native Basics Tutorial](https://reactnative.dev/docs/tutorial)
+- [React Native Crash Course for Beginners](https://youtu.be/0-S5a0eXPoc)
+
+#### React Native Components
+
+- [React Native Component Library](https://reactnativeelements.com/)
+- [React Native UI Components](https://github.com/react-native-community/react-native-elements)
+
+#### React Native Styling
+
+- [React Native Styling Tutorial](https://reactnative.dev/docs/style)
+- [React Native Styling Cheat Sheet](https://github.com/vhpoet/react-native-styling-cheat-sheet)
+
+#### Handling User Input
+
+- [React Native Touchables](https://reactnative.dev/docs/handling-touches)
+- [React Native Gesture Handler](https://docs.swmansion.com/react-native-gesture-handler/docs/)
+
+#### Navigation and Routing
+
+- [React Navigation Documentation](https://reactnavigation.org/docs/getting-started)
+- [React Navigation Tutorial](https://www.youtube.com/watch?v=FWwKjxSgLl8&list=PLQWFhX-gwJbmtZY4mcRE-k7hL9DigcGS-)
+
+#### State Management
+
+- [React Native State Management with Redux](https://redux.js.org/basics/usage-with-react-native)
+- [React Native State Management with Context API](https://blog.devgenius.io/react-native-state-management-with-context-api-61f63f5b099)
+
+#### Working with APIs
+
+- [Fetch API Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+- [Axios Library Documentation](https://github.com/axios/axios)
+- [React Native Networking Tutorial](https://reactnative.dev/docs/network)
+
+#### Debugging and Testing (Optional)
+
+- [React Native Debugging](https://reactnative.dev/docs/debugging)
+- [React Native Testing Tutorial](https://reactnative.dev/docs/testing-overview)
+
+## Activities and Projects
+
+1. Activity: Create a basic React Native app with a button and a text field. On button press, display the entered text in the text field.
+2. Project: Build a simple weather app that fetches weather data from a public API and displays it using React Native components and styling.
+3. Activity: Implement user authentication and authorization using Firebase and React Native.
+4. Project: Build a simple social media app that allows users to post, like, and comment on posts. Integrate with a backend API and use React Native components and navigation for the UI.
 
 ---
 
@@ -74,6 +122,8 @@ Android Studio is an IDE that allows you to develop Android apps. You can downlo
 You can list additional resources(blogs,videos or books) the person can use to learn more about the technology. You can also include Newsletters to stay updated about  the technology and the communities to connect and network with people working on the specified technology
 
 ### Articles/Blogs
+
+- [React Native Project Ideas](https://www.interviewbit.com/blog/react-native-projects/)
 
 ### Videos
 
@@ -87,6 +137,10 @@ You can list additional resources(blogs,videos or books) the person can use to l
 
 ## 🚀 Project Pool
 
-You can list the project ideas the person could try out and build using the technology mentioned in the learning path.
-
-**Good to have** :A few demo project links for the persons reference
+1. To-Do List App [Basic]: A simple to-do list app where users can add, delete, and mark items as complete. It can also have a feature to set reminders for specific tasks.
+2. Weather App [Basic]: A weather app that uses an API to fetch real-time weather data for the user's location. Users can also search for weather data for other locations.
+3. Movie/TV Show Finder [Basic]: A simple app that uses an API to fetch details about popular movies or TV shows. Users can search for movies or TV shows and get information about their ratings, cast, release date, etc.
+4. Recipe App [Basic]: A recipe app that allows users to search for and save their favorite recipes. It can also include features such as creating grocery lists, setting cooking timers, and rating recipes.
+5. Fitness App [Intermediate]: A fitness app that helps users track their workouts, set fitness goals, and monitor their progress. It can also include features such as creating custom workout plans.
+6. E-Commerce App [Intermediate]: A simple e-commerce app that allows users to browse and purchase products. It can also include features such as a shopping cart, wishlist, and user profile.
+7. Chat App [Advanced]: A real-time chat app that allows users to chat with each other. It can include features such as user authentication, sending images, and group chat functionality.
